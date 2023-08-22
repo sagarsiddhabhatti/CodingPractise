@@ -1,4 +1,4 @@
-package StringCode;
+package stringproblems;
 
 import java.util.*;
 
